@@ -60,7 +60,7 @@ The log() call is also responsible for updating the code coverage information st
 Our unit tester utilizes a fast MD5 library. We packaged the code along with our tester code, so no additional steps are necessary to import this library. There are a number of pre-compiled native libraries that we also distribute with our tester, located in unit-test-api/lib.
 
 ## Class Diagram
-![Class Diagram](https://raw.github.com/ameijer/unit-test-api/master/README%20images/Class%20Diagram.jpg “Class Diagram”)
+![Class Diagram](https://raw.github.com/ameijer/unit-test-api/master/README%20images/Class%20Diagram.jpg)
 
 ## Data Flow Diagram
-![Data Flow Diagram](https://raw.github.com/ameijer/unit-test-api/master/README%20images/Data%20Flow%20Diagram.jpg “Data Flow Diagram”)
+![Data Flow Diagram](https://raw.github.com/ameijer/unit-test-api/master/README%20images/Data%20Flow%20Diagram.jpg)
