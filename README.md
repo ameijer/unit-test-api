@@ -5,7 +5,7 @@ unit-test-api
 A Java API for conducting unit testing. Prints code coverage and result reports, and also verifies the correctness of the tested code.
 
 ## Introduction/Overview
-Our solution has been designed to offer robust code testing and coverage reporting in a lightweight package. The core Tester class is under 800 lines of code; this keeps the overhead of running the tester minimal. Our solution also exceeds the project’s requirements by providing support for many other objects out of the box. We accomplish this by utilizing the toString functionality of objects to distinguish them. If, however, an object’s toString has not been implemented, our solution provides an interface, the Identifiable interface, to distinguish objects. Any class that implements this lightweight interface can be used in our Tester - even if it is stored in an array."
+Our solution has been designed to offer robust code testing and coverage reporting in a lightweight package. The core Tester class is under 800 lines of code; this keeps the overhead of running the tester minimal. Our solution also exceeds the project’s requirements by providing support for many other objects out of the box. We accomplish this by utilizing the toString functionality of objects to distinguish them. If, however, an object’s toString has not been implemented, our solution provides an interface, the Identifiable interface, to distinguish objects. Any class that implements this lightweight interface can be used in our Tester - even if it is stored in an array.
 
 The class diagram describing our solution has been provided at the end of this README.
 ## Our Solution in Detail
